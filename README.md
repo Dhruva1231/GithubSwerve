@@ -1,2 +1,2 @@
 # GithubSwerve
-A swerve drive template that I filled out
+A swerve drive template
